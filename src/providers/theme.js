@@ -17,7 +17,7 @@ const MuiThemeProvider = ({ children }) => {
             },
             background: {
                 paper: '#111',
-                default: 'red'
+                default: '#e32426'
             },
             text: {
                 primary: '#fff',
