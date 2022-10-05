@@ -24,6 +24,7 @@ const Mint = () => {
             borderRadius: 0,
           }}
         >
+          {/* Connect code */}
           <Connect />
         </Grid>
       </Container>
